@@ -35,5 +35,5 @@ VERSION&#xD;
   <Config Name="PUID" Target="PUID" Default="" Mode="" Description="" Type="Variable" Display="advanced" Required="false" Mask="false">911</Config>
   <Config Name="PGID" Target="PGID" Default="" Mode="" Description="" Type="Variable" Display="advanced" Required="false" Mask="false">911</Config>
   <Config Name="youtubedl_interval" Target="youtubedl_interval" Default="" Mode="" Description="To customize the download interval (1h,3h,12h,3d)." Type="Variable" Display="advanced" Required="false" Mask="false">12h</Config>
-  <Config Name="youtubedl_quality" Target="youtubedl_quality" Default="" Mode="" Description="To customize the download quality (720,1080,1440,2160)." Type="Variable" Display="advanced" Required="false" Mask="false">1080p</Config>
+  <Config Name="youtubedl_quality" Target="youtubedl_quality" Default="" Mode="" Description="To customize the download quality (720,1080,1440,2160)." Type="Variable" Display="advanced" Required="false" Mask="false">1080</Config>
 </Container>
